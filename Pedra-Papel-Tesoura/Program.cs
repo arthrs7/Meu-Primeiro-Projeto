@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Vamos jogar Papel, Tesoura!");
+        Console.WriteLine("Vamos jogar Pedra, Papel e Tesoura!");
 
         Console.WriteLine("Digite 1 para Papel, 2 para Tesoura, 3 para Pedra:");
         int jogadorEscolha = int.Parse(Console.ReadLine());
