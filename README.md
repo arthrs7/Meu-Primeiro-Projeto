@@ -17,6 +17,3 @@ Resultado: Mostramos o resultado na tela.
 
 Considerações Finais
 Esse é um código bem simples, ideal para iniciantes. Ele abrange o básico de entradas, saídas e condicionais, e pode ser um bom ponto de partida para quem está aprendendo programação.
-
-
-
